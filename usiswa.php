@@ -2,6 +2,7 @@
 
 // update 9 des 2016
 // m. faisal akbar
+// berubah
 
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
